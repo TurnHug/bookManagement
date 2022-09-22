@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/book/Book.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/book/bookOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/mysql/Connect.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/user/AdminAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/user/Enter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/user/userAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/Main.java" charset="GBK" />
+  </component>
+</project>
